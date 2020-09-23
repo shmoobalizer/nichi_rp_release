@@ -20,4 +20,4 @@ Credits:
   shmoobalizer
   Swunglepord862
 <br>
-<b>Please give proper credit when using assets from this pack in your own public projects :)</b>
+#Please give proper credit when using assets from this pack in your own public projects :)
