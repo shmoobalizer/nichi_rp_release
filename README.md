@@ -18,11 +18,11 @@ under their usage guidelines [https://account.mojang.com/documents/commercial_gu
 
 <br>
 Credits:
-  Mojang Studios
-  PhysicsE
-  PoeticRainbow
-  shmoobalizer
-  Swunglepord862
+  Mojang Studios<br>
+  PhysicsE<br>
+  PoeticRainbow<br>
+  shmoobalizer<br>
+  Swunglepord862<br>
 
 <br>
 
