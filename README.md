@@ -17,12 +17,12 @@ These assets are derivative media of Mojang Studios' assets for Minecraft,
 under their usage guidelines [https://account.mojang.com/documents/commercial_guidelines]
 
 <br>
-Credits:
-  Mojang Studios<br>
-  PhysicsE<br>
-  PoeticRainbow<br>
-  shmoobalizer<br>
-  Swunglepord862<br>
+Credits:<br>
+ - Mojang Studios<br>
+ - PhysicsE<br>
+ - PoeticRainbow<br>
+ - shmoobalizer<br>
+ - Swunglepord862<br>
 
 <br>
 
